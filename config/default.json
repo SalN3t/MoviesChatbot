@@ -1,0 +1,7 @@
+{
+    "accessToken": "FACEBOOK_ACCESS",
+    "verifyToken": "FACEBOOK_Token",
+    "appSecret": "APP_SECRET",
+    "botPort": 8007,
+    "botTunnelSubDomain": "bootbotmoviebotjcysdewx"
+}
